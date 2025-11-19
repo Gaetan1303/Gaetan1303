@@ -51,7 +51,7 @@ Passionné par les applications interactives et temps réel, je développe des s
 
 ##  Projets Principaux
 
-### 🍽️ Cafeterie - Plateforme de Gestion Collaborative
+###  Cafeterie - Plateforme de Gestion Collaborative
 **Application de centralisation des achats et événements en formation**
 
 Une plateforme complète permettant de gérer collectivement les achats de boissons chaudes et repas, avec système d'organisation d'événements entre utilisateurs.
