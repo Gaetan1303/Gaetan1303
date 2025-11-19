@@ -1,9 +1,9 @@
-# Gaëtan - Développeur Full-Stack JavaScript
+# Gaëtan - Développeur Full-Stack 
 
 > **Développeur Full-Stack spécialisé en applications interactives temps réel**  
 > Vue.js • Node.js • Express • MongoDB • Architecture MVC
 
-📍 Toulouse, France | Disponible Octobre 2026 |  Recherche CDI
+📍 Toulouse, France | Disponible Octobre 2026 |
 
 ---
 
