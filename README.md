@@ -1,7 +1,7 @@
 # Gaëtan - Développeur Full-Stack 
 
 > **Développeur Full-Stack spécialisé en applications interactives temps réel**  
-> Vue.js • Node.js • Express • MongoDB • Architecture MVC
+
 
 📍 Toulouse, France | Disponible Octobre 2026 |
 
@@ -32,8 +32,7 @@ Passionné par les applications interactives et temps réel, je développe des s
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
