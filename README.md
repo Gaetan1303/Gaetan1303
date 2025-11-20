@@ -25,9 +25,7 @@ Passionné par les applications interactives et temps réel, je développe des s
 
 ### Front-End
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.4-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-Store-ffd859?style=for-the-badge&logo=vue.js&logoColor=black)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4.6-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
